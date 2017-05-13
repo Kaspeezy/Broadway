@@ -1,0 +1,35 @@
+body {text-align: center;
+font-family: Helvetica;}
+
+#heading {background-image: url('../images/building.png');
+background-repeat: no-repeat; background-size: cover;
+}
+
+#heading p {font-size: 18px; color: white;}
+
+h1 {font-family: Helvetica;
+font-size: 70px;
+font-weight: bold;
+color: white;}
+
+h2 {font-size: Helvetica;
+font-weight: bold;
+font-size: 32px;}
+
+h4 {color: white;}
+
+.NY {color: white; 
+	font-size: 23px;
+background-image: url('../images/building.png');}
+
+.subtitle {font-size: 23px;
+font-weight: bold;}
+
+p {font-size: 14px;}
+
+.bottom {display: flex;
+background-color: dimgray; color: white;}
+
+.bottom p {padding-left: 10px;}
+
+.anchor {color: white;}
